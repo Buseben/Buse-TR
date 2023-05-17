@@ -3,7 +3,16 @@
 
 
 
+
+
+
+
+
+
+
 #Nasıl kurulur
+
+
 
 
 pkg install git
